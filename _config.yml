@@ -3,13 +3,14 @@ name: "Buhara"
 email: metinzorlu@msn.com 
 description: Kişisel blog sayfası
 
-baseurl: "/buhara" 
+baseurl: "" 
 url: "" 
 twitter_username: deruni
 github_username: mtnzorlu 
 youtube_username: deruni79
 
 markdown: Kramdown
+remote_theme: /buhara
 
 # navmenu 
 atitle: About
