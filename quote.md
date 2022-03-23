@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quote
+title: Alıntı
 permalink: /quote/
 ---
 
