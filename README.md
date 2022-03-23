@@ -1,1 +1,0 @@
-# mtnzorlu.github.io
