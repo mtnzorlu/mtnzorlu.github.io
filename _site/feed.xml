@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/buhara/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/buhara/" rel="alternate" type="text/html" /><updated>2022-03-23T17:10:17+03:00</updated><id>http://localhost:4000/buhara/feed.xml</id><title type="html">Your Awesome Title</title><subtitle>Kişisel blog sayfası</subtitle><entry><title type="html">Linux Terminal Komutları</title><link href="http://localhost:4000/buhara/genel/2022/03/23/linux-terminal-komutlari.html" rel="alternate" type="text/html" title="Linux Terminal Komutları" /><published>2022-03-23T00:00:00+03:00</published><updated>2022-03-23T00:00:00+03:00</updated><id>http://localhost:4000/buhara/genel/2022/03/23/linux-terminal-komutlari</id><content type="html" xml:base="http://localhost:4000/buhara/genel/2022/03/23/linux-terminal-komutlari.html"><![CDATA[<p>Konsol Komutları Linux Sistemlere yeni başlayanlar için zor ve karmaşık görülebilir, fakat bir süre sonra alışıldığında aslında ne kadar kullanışlı olduğu fark edilecektir.</p>
+
+<p>Komut satırında klasörlerde gezinebilir, dosya ve klasör ekleyip, silebilir, içeriğine bakıp, değiştirebilir, sisteminizi günceller, yeni paketler kurabilir ve kaldırabilirsiniz. Bunlardan fazlası da var elbette ama bu yazımızda bazılarına kısaca değinelim.</p>
+
+<p>pwd hangi dizin (klasör) üzerinde olduğunuzu gösterir.</p>
+
+<p>ls dizindeki dosyaları ve dizinleri liste halinde gösterir.</p>
+
+<p>ls -a dizindeki dosyaları ve dizinleri (gizliler dahil) liste halinde gösterir.</p>
+
+<p>ls -l dizindeki dosyaları ve dizinleri ayrıntılı halde, liste halinde gösterir.</p>
+
+<p>cd dizinlerde gezinmek için kullanılır. Mesela cd /etc komutu sizi kök dizindeki etc dizinine gönderir.</p>
+
+<p>cd .. bir üst dizine gider.</p>
+
+<p>mkdir yeni dizin eklemek için kullanılır.</p>
+
+<p>mv dosya taşıma komutu. Ayrıca dosyaya yeni isim vermek için de kullanılır.</p>
+
+<p>touch yeni dosya eklemek için kullanılır. Mesela touch test.txt yazarak bir metin dosyası oluşturulur.</p>
+
+<p>rm dosya silme için kullanılır.</p>
+
+<p>rm -r dizin (içindekilerle beraber) silme komutu.
+Önce sudo su, sonra ls, sonra örn. (rm -r dizin)</p>
+
+<p>cat dosya içeriğine bakmak için.</p>
+
+<p>cp kopyalama komutu.</p>
+
+<p>echo komutuyla ekrana veya bir belgeye yazı girebilirsiniz. Mesela:
+echo qwe &gt; abc.txt
+abc adlı metin dosyası hazırlar ve içine “qwe” yazar,
+echo qwe » abc.txt
+abc adlı metin dosyası içine “qwe” ekler. Tırnak içi kullanımda boşluk kabul edilir:
+echo “merhaba dünya” » abc.txt
+deneyin.</p>
+
+<p>sudo geçici olarak root haklarıyla çalışmak için kullanılır.</p>
+
+<p>man yardım dosyasını gösterir.</p>
+
+<p>top çalışan süreçleri görmenizi sağlar.</p>]]></content><author><name></name></author><category term="genel" /><summary type="html"><![CDATA[Konsol Komutları Linux Sistemlere yeni başlayanlar için zor ve karmaşık görülebilir, fakat bir süre sonra alışıldığında aslında ne kadar kullanışlı olduğu fark edilecektir.]]></summary></entry></feed>

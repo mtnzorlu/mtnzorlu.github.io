@@ -1,0 +1,20 @@
+title: "Your Awesome Title"
+name: "Buhara"
+email: metinzorlu@msn.com 
+description: Kişisel blog sayfası
+
+baseurl: "/buhara" 
+url: "" 
+twitter_username: deruni
+github_username: mtnzorlu 
+youtube_username: deruni79
+
+markdown: Kramdown
+
+# navmenu 
+atitle: About
+aurl: /about
+btitle: Works
+burl: /works
+ctitle: Quote
+curl: /quote
