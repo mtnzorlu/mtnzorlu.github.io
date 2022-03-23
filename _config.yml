@@ -13,9 +13,9 @@ markdown: Kramdown
 remote_theme: mtnzorlu/buhara
 
 # navmenu 
-atitle: About
+atitle: Hakkımda
 aurl: /about
-btitle: Works
+btitle: Çalışmalar
 burl: /works
-ctitle: Quote
+ctitle: Alıntı
 curl: /quote
