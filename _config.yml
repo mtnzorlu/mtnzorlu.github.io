@@ -10,7 +10,7 @@ github_username: mtnzorlu
 youtube_username: deruni79
 
 markdown: Kramdown
-remote_theme: mtnzorlu/buhara
+remote_theme: /buhara
 
 # navmenu 
 atitle: About
