@@ -9,6 +9,7 @@ twitter_username: deruni
 github_username: mtnzorlu
 youtube_username: deruni79
 
+
 highlighter: rouge
 markdown: Kramdown
 remote_theme: mtnzorlu/buhara
