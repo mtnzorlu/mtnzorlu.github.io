@@ -1,18 +1,19 @@
 title: "Metin Zorlu"
 name: "Buhara"
-email: metinzorlu@msn.com 
+email: metinzorlu@msn.com
 description: Şahsi Blog Sayfası
 
-baseurl: "" 
-url: "" 
+baseurl: ""
+url: ""
 twitter_username: deruni
-github_username: mtnzorlu 
+github_username: mtnzorlu
 youtube_username: deruni79
 
+highlighter: rouge
 markdown: Kramdown
 remote_theme: mtnzorlu/buhara
 
-# navmenu 
+# navmenu
 atitle: Hakkımda
 aurl: /about
 btitle: Çalışmalar
