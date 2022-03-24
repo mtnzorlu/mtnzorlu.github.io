@@ -9,6 +9,8 @@ Konsol Komutları Linux Sistemlere yeni başlayanlar için zor ve karmaşık gö
 
 Komut satırında klasörlerde gezinebilir, dosya ve klasör ekleyip, silebilir, içeriğine bakıp, değiştirebilir, sisteminizi günceller, yeni paketler kurabilir ve kaldırabilirsiniz. Bunlardan fazlası da var elbette ama bu yazımızda bazılarına kısaca değinelim.
 
+    echo "tv";
+
 **pwd** hangi dizin (klasör) üzerinde olduğunuzu gösterir.
 
 **ls** dizindeki dosyaları ve dizinleri liste halinde gösterir.
