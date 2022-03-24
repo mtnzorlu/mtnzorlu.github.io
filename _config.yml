@@ -9,9 +9,10 @@ twitter_username: deruni
 github_username: mtnzorlu
 youtube_username: deruni79
 
-
-highlighter: rouge
-markdown: Kramdown
+markdown: kramdown
+kramdown:
+input: GFM
+syntax_highlighter: rouge
 remote_theme: mtnzorlu/buhara
 
 # navmenu
