@@ -5,9 +5,9 @@ date: 2022-02-25
 categories: osmanlica-metinler
 ---
 
-İmâm-ı Gazâlî Hazretleri’nin, Eyyühe’l-Veled (Ey Oğul) adlı eserinin, Osmanlıca tercümesinden iktibâsla günümüz imlâsına aktardığımız bu yazıda, tartışma, vaaz ve nasihat etme hususunda bize rehberlik edecek bilgiler yer almaktadır.
+**İmâm-ı Gazâlî Hazretleri’nin, Eyyühe’l-Veled (Ey Oğul) adlı eserinin, Osmanlıca tercümesinden iktibâsla günümüz imlâsına aktardığımız bu yazıda, tartışma, vaaz ve nasihat etme hususunda bize rehberlik edecek bilgiler yer almaktadır.**
 
-Günümüzde, gerek sosyal medyada, gerek sohbet mekânlarında birtakım çekişmeler, tartışmalar ve tatsız hâdiseler müşâhede edilmektedir. İşte bu yazıda, nerede durup, ne şekil davranmak gerektiği hakkında bize ışık tutan nasihatleri okuyacaksınız.
+**Günümüzde, gerek sosyal medyada, gerek sohbet mekânlarında birtakım çekişmeler, tartışmalar ve tatsız hâdiseler müşâhede edilmektedir. İşte bu yazıda, nerede durup, ne şekil davranmak gerektiği hakkında bize ışık tutan nasihatleri okuyacaksınız.**
 
 Ey ferzend! Ben sana sekiz şey ile nasihat ederim, kabul eyle. Ol sekiz şeyin dördüyle âmil ol ve dördünü terk eyle ki rûz-ı ceza’da amelin sana hasım olmaya. Terk edeceğin dörtten birisi budur ki, kâdir olduğun halde bir kimse ile hiçbir meselede münazara etme. Zira münazarada âfet-i kesîre vardır ve zararı nef’inden ekserdir. Çünkü münazara riyâ, hased, kibir, hıkd, adâvet, mübâhât ve emsali gibi ahlâk-ı zemîmenin menbaı ve sıfât-ı reddiyenin mebdeidir. Fakat bir meselede bir şahıs ile yahud bir cemaat ile münazara vaki’ olup maksadın izhâr-ı hakk ve niyetin hakk-ı mezkûru sıyânet ise bu misillü münazara caizdir. Lâkin bu niyetin iki alameti vardır. Birisi hakk senin lisânında ve yahud hasmın lisânında zuhûr ederse her ikisi müsâvi olup vâdi-i itirazda pûyân olmamaktır. İkincisi cereyan eden mübâhese ve münazaranın tenha yerde olmasını melâ-i nâs içinde cereyanından evlâ bilmektir.
 
