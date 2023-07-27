@@ -11,7 +11,7 @@
      <!-- Twitter head etiketleri -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ site.title }}">
-    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:description" content="{% if page.description == null %}{{ site.title }}{% else %}{{ page.description }}{% endif %}">
     <meta name="twitter:image" content="https://mtnzorlu.github.io/assets/img/i-1.jpg">
     
 </head>
