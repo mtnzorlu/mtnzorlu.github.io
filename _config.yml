@@ -17,7 +17,7 @@ feed:
   name: "feed.xml"
 
 baseurl: ""
-url: "/"
+url: ""
 twitter_username: deruni
 github_username: mtnzorlu
 youtube_username: deruni79
