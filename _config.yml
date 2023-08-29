@@ -1,26 +1,28 @@
 title: "Metin Zorlu"
 name: "Buhara"
 email: metinzorlu@msn.com
-description: Kişisel Blog Sitesidir.
+description: "Kişisel blog sayfası"
+info: "Bu Site Hakkında"
+quotes: "Güzel Sözler"
+buttonTitle: "Diğer Yazılar"
+nPosts: "Yeni Yazılar"
+
+baseurl: "" 
+url: ""
 
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-paginate
+  
+paginate: 3
 
-# jekyll-feed settings
+paginate_path: "/blog/page:num/"
+
 feed:
-  # Site başlığı
-  title: "Your Awesome Title"
-  # Sitenizin kısa açıklaması
+  title: "Metin Zorlu"
   description: "Kişisel blog sayfası"
-  # Feed dosyasının adı (isteğe bağlı)
   name: "feed.xml"
-
-baseurl: ""
-url: ""
-twitter_username: deruni
-github_username: mtnzorlu
-youtube_username: deruni79
 
 markdown: kramdown
 kramdown:
@@ -29,9 +31,10 @@ syntax_highlighter: rouge
 remote_theme: mtnzorlu/buhara
 
 # navmenu
+mTitle: Ana Sayfa
 atitle: Hakkımda
 aurl: /about
 btitle: Çalışmalar
 burl: /works
-ctitle: Alıntı
-curl: /quote
+ctitle: Blog
+curl: /blog
