@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hakkımda
+title: Hakkında
 permalink: /about/
 ---
 <h1>{{ page.title }}</h1>

@@ -32,7 +32,7 @@ remote_theme: mtnzorlu/buhara
 
 # navmenu
 mTitle: Ana Sayfa
-atitle: Hakkımda
+atitle: Hakkında
 aurl: /about
 btitle: Çalışmalar
 burl: /works
