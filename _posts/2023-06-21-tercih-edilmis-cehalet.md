@@ -5,8 +5,7 @@ date: 2023-06-21
 categories: fikir
 description: Düzensiz bilgi akışı ve düşündürdükleri
 ---
-
-**Birçok kimsenin, kendi başına birtakım içeriklerle karşı karşıya kalması, düzensiz ve kontrolsüz bilgi toplamasına sebep oluyor. Bu düzensiz bilgiler; sosyal medya içeriklerinden, dizi ve filmlerden, keyfî veya kontrolsüz kitap okumalarından, karışık ve düzensiz video izleme yoluyla elde edilebiliyor. İşte bu yazımda, bu karmaşık duruma dair düşüncelerimi bulacaksınız.**
+Birçok kimsenin, kendi başına birtakım içeriklerle karşı karşıya kalması, düzensiz ve kontrolsüz bilgi toplamasına sebep oluyor. Bu düzensiz bilgiler; sosyal medya içeriklerinden, dizi ve filmlerden, keyfî veya kontrolsüz kitap okumalarından, karışık ve düzensiz video izleme yoluyla elde edilebiliyor. İşte bu yazımda, bu karmaşık duruma dair düşüncelerimi bulacaksınız.
 
 Öğreniyoruz. Okuyarak, dinleyerek, izleyerek öğreniyoruz. Bunun belli bir düzende olmadığı durumlarda, sağlıksız bir öğrenme gerçekleşiyor. Belli bir düzen, format ve müfredat çerçevesinde öğrenme ise bizi birtakım kalıplara sokabiliyor. Burada eğitimcilerin maksat ve gayeleri belirleyici olacaktır.
 

@@ -4,7 +4,6 @@ title:  "Linux Terminal Komutları"
 date: 2022-03-23
 categories: genel
 ---
-
 Konsol Komutları Linux Sistemlere yeni başlayanlar için zor ve karmaşık görülebilir, fakat bir süre sonra alışıldığında aslında ne kadar kullanışlı olduğu fark edilecektir.
 
 Komut satırında klasörlerde gezinebilir, dosya ve klasör ekleyip, silebilir, içeriğine bakıp, değiştirebilir, sisteminizi günceller, yeni paketler kurabilir ve kaldırabilirsiniz. Bunlardan fazlası da var elbette ama bu yazımızda bazılarına kısaca değinelim.

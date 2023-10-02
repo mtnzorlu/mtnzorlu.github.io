@@ -5,8 +5,7 @@ date: 2023-07-27
 categories: iktibas
 description: istihare hakkında bilgi notları
 ---
-
-**İstihare hakkında bilgi notları. Cübbeli Ahmet Hoca’nın, konuyla ilgili videosundan almış olduğum notlardır.**
+İstihare hakkında bilgi notları. Cübbeli Ahmet Hoca’nın, konuyla ilgili videosundan almış olduğum notlardır.
 
 İstihâre Allâh’tan hayır istemek.
 
