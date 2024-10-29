@@ -21,7 +21,7 @@ paginate_path: "/blog/page:num/"
 
 feed:
   title: "Metin Zorlu"
-  description: "Kişisel blog sayfası"
+  description: "Kişisel blog"
   name: "feed.xml"
 
 markdown: kramdown
