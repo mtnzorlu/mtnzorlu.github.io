@@ -6,6 +6,8 @@ categories: iktibas
 description: Allah'a iman hakkında temel bilgiler.
 ---
 
+Herkesin bilmesi gereken temel dini bilgileri özet bir şekilde bir araya toplayan ve kısaca açıklayan kitaplar vardır. İşte bu yazıda Allah-u Teâlâ'ya iman hakkında temel bilgiler ve Allah-u Teâlâ'nın sıfatlarını bulacaksınız.
+
 ## 1- Allah'a imanı açıklayınız?
 
 Allah'a iman eden kimsenin inancı şöyle olmalıdır;
@@ -26,7 +28,7 @@ Zâtî ve sübûtî olmak üzere iki kısımdır.
 
 ## 3- Zâtî sıfatları nelerdir?
 
-**Zâtî sıfatlar;** Allahu Teâlâ'ya ait olup ondan ayrılmayan ve kullarda olmayan sıfatlardır. Bunlar 6 tanedir;
+**Zâtî sıfatlar;** Allah-u Teâlâ'ya ait olup ondan ayrılmayan ve kullarda olmayan sıfatlardır. Bunlar 6 tanedir;
 
 1. **Vücut;** Allah'ın (kendinden) var olması, (var olmakta hiçbir şeye muhtaç olmaması)
 2. **Kıdem;** Evveli olmaması,
