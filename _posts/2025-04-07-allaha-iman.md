@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Allah'a İman
-date: 2025-03-18
+date: 2025-04-07
 categories: iktibas
 description: Allah'a iman hakkında temel bilgiler.
 ---
