@@ -6,16 +6,18 @@ categories: iktibas
 description: Allah'a iman hakkında temel bilgiler.
 ---
 
-# Allah'a İman
-
 ## 1- Allah'a imanı açıklayınız?
 
 Allah'a iman eden kimsenin inancı şöyle olmalıdır;
 
 1- Allah-u Teâlâ birdir ve onun eşi, benzeri, ortağı, yoktur.
+
 2- Bir zamana ve mekana nispet edilmez.
+
 3- Hep vardır ve daima var olacaktır.
+
 4- Kimseye muhtaç olmayıp her şey kendisine muhtaçtır.
+
 5- Her şeyi görür işitir Ve bilir ki ona hiçbir şey gizli kalmaz.
 
 ## 2- Allah-u Teâlâ'nın sıfatları kaç kısımdır?
