@@ -16,7 +16,7 @@ Bu yazıda peygamberlere iman ve peygamberlerin sıfatlarını bildiren bir kita
 
 ## 1- Rasül ve Nebi ne demektir? 
 
-**Rasül:** kendisine Allah tarafından şeriat verilen peygamberlerdir.
+**Rasül:** Kendisine Allah tarafından şeriat verilen peygamberlerdir.
 
 **Nebi:** Kendisine yeni şeriat verilmeyip, önceki kitapları ümmetine bildirmekle vazifeli peygamberlerdir.
 
