@@ -8,7 +8,7 @@ description: Peygamberlere iman hakkında temel bilgiler.
 
 Bu yazıda peygamberlere iman ve peygamberlerin sıfatlarını bildiren bir kitaptan iktibas yapıyoruz.
 
-*Bazı yazım hataları düzeltilmiştir*
+*Bazı yazım hataları düzeltilmiştir.*
 
 ## PEYGAMBERLERE İMAN VE PEYGAMBERLERE OLAN İHTİYAÇ
 
@@ -39,53 +39,29 @@ Peygamberlerde muhakkak bulunması gereken beş özellik vardır:
 İlk peygamber Adem (Aleyhisselâm) ile son peygamber Hazreti Muhammed (Sallallahu Aleyhi ve Sellem) arasında bir rivayete göre 124 bin diğer bir rivayete göre sayılarını yalnız Allah'ın bildiği bir çok peygamber gelmiştir. Biz onların hepsine ayırt etmeksizin iman ederiz. Fakat Kur'ân-ı Kerim'de adı geçen peygamberler 25 tanedir. Bunlar:
 
 1. Âdem (Aleyhisselâm)
-
 2. İdris (Aleyhisselâm)
-
 3. Nuh (Aleyhisselâm)
-
 4. Hûd (Aleyhisselâm)
-
 5. Salih (Aleyhisselâm)
-
 6. Lût (Aleyhisselâm)
-
 7. İbrahim (Aleyhisselâm)
-
 8. İsmail (Aleyhisselâm)
-
 9. İshak (Aleyhisselâm)
-
 10. Yâkup (Aleyhisselâm)
-
 11. Yusuf (Aleyhisselâm)
-
 12. Şuayb (Aleyhisselâm)
-
 13. Harun (Aleyhisselâm)
-
 14. Mûsâ (Aleyhisselâm)
-
 15. Dâvûd (Aleyhisselâm)
-
 16. Süleyman (Aleyhisselâm)
-
 17. Eyyüb (Aleyhisselâm)
-
 18. Zülkifl (Aleyhisselâm)
-
 19. Yunus (Aleyhisselâm)
-
 20. İlyas (Aleyhisselâm)
-
 21. Elyesa (Aleyhisselâm)
-
 22. Zekeriyya (Aleyhisselâm)
-
 23. Yahya (Aleyhisselâm)
-
 24. Îsâ (Aleyhisselâm)
-
 25. Muhammed Mustafa (Sallallahu Aleyhi ve Sellem)
 
 ## 4- Peygamber olup olmadığında ihtilaf edilen zatların isimleri nelerdir?
