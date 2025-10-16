@@ -7,7 +7,7 @@ quotes: "Güzel Sözler"
 buttonTitle: "Diğer Yazılar"
 nPosts: "Yeni Yazılar"
 
-baseurl: "https://mtnzorlu.github.io/" 
+baseurl: "https://mtnzorlu.github.io" 
 url: ""
 
 plugins:
@@ -34,8 +34,8 @@ remote_theme: mtnzorlu/buhara
 # navmenu
 mTitle: Ana Sayfa
 atitle: Hakkında
-aurl: about
+aurl: /about
 btitle: Çalışmalar
-burl: works
+burl: /works
 ctitle: Blog
-curl: blog
+curl: /blog
