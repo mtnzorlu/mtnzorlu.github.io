@@ -18,7 +18,7 @@ plugins:
   
 paginate: 3
 
-paginate_path: "/blog/page:num/"
+paginate_path: "blog/page:num/"
 
 feed:
   title: "Metin Zorlu"
@@ -34,8 +34,8 @@ remote_theme: mtnzorlu/buhara
 # navmenu
 mTitle: Ana Sayfa
 atitle: Hakkında
-aurl: /about
+aurl: about
 btitle: Çalışmalar
-burl: /works
+burl: works
 ctitle: Blog
-curl: /blog
+curl: blog
