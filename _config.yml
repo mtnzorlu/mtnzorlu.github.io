@@ -7,7 +7,7 @@ quotes: "Güzel Sözler"
 buttonTitle: "Diğer Yazılar"
 nPosts: "Yeni Yazılar"
 
-baseurl: "" 
+baseurl: "https://mtnzorlu.github.io/" 
 url: ""
 
 plugins:
