@@ -7,8 +7,8 @@ quotes: "Güzel Sözler"
 buttonTitle: "Diğer Yazılar"
 nPosts: "Yeni Yazılar"
 
-baseurl: "https://mtnzorlu.github.io" 
-url: ""
+url: "https://mtnzorlu.github.io" 
+baseurl: ""
 
 plugins:
   - jekyll-seo-tag
