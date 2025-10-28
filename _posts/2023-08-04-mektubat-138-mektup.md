@@ -3,9 +3,8 @@ layout: post
 title: Mektubat 138. Mektup
 date: 2023-08-04
 categories: tasavvuf
-description: 1. Cild 138. Mektup notları. Mektûbât Dersleri – Hüsameddin Vanlıoğlu Hoca Efendi
+description: 1. Cild 138. Mektup. Mektûbât Dersleri – Hüsameddin Vanlıoğlu Hoca Efendi
 ---
-
 1\. Cild 138. Mektûb
 
 *Mektûbât Dersleri – Hüsameddin Vanlıoğlu Hoca Efendi*
@@ -14,7 +13,7 @@ Dünya, Tasavvuf dilinde; kişiyi Allâh'tan uzaklaştıran her şeydir.
 
 Kısaca dünya, Tasavvuf dilinde; kişiyi Mevlâya vuslattan engelleyecek olan ne varsa odur.
 
-Dünyacılar
+Dünyacılar...
 
 Tefekkür, derin düşünmektir.
 Biz Cennet kaşılığında, Mevlâ Te'âlâ'ya, canımızı da, malımızı da fedâ ettik.
