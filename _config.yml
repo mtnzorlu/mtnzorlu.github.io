@@ -15,9 +15,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-
-seo:
-  title: false
   
 paginate: 3
 
