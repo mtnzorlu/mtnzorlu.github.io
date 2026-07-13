@@ -10,6 +10,10 @@ nPosts: "Yeni Yazılar"
 url: "https://mtnzorlu.github.io" 
 baseurl: ""
 
+locale: tr_TR
+
+lang: tr
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
